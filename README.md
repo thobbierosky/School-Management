@@ -1,5 +1,3 @@
 # School-Management-Application
-Please Downlod The Project and then unzip the file, 
-then go instruction folder, then you will got every instruction
-
-Thank you
+This is a School Management  Web Application for Anwarul College.
+You can download freely.
