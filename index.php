@@ -1,7 +1,6 @@
 
 <?php
-$view = "index";
-include("template.php");
+echo "llll";
 
 
 
