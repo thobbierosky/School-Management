@@ -1,9 +1,10 @@
 <?php
 Class Database{
-	public $host   = 'localhost';
-	public $user   = 'root';
-	public $pass   = "";
-	public $dbname = 'school_management_system_2021';
+
+	public $host   = 'us-cdbr-east-05.cleardb.net';
+	public $user   = 'b28757594d1d3a';
+	public $pass   = "cbb4472d";
+	public $dbname = 'heroku_370e7b503fe5b8c';
 	
 	
 	public $link;
