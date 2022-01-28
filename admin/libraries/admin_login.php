@@ -5,10 +5,11 @@ class Admin{
     public function __construct()
     {
         #database Host, D-user, D-pass, D-name
-        $dbhost = 'localhost';
-        $dbuser = 'root';
-        $dbpass = "";
-        $dbname = 'school_management_system_2021';
+        
+        $dbhost = 'us-cdbr-east-05.cleardb.net';
+        $dbuser = 'b28757594d1d3a';
+        $dbpass = "cbb4472d";
+        $dbname = 'heroku_370e7b503fe5b8c';
         $this->conn = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
         
         if(!$this->conn){
